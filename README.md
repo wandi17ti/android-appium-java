@@ -1,7 +1,7 @@
 # Implement Automation Mobile using Appium Java
 
 ## Steps Configuration to run Mobile Automation
-- Download Java and et JAVA_HOME
+- Download Java and set JAVA_HOME
 - Download [Android Studio](https://developer.android.com/studio)
 - Set ANDROID_HOME path to SDK Location
 - Download Node.js
