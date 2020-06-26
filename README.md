@@ -44,7 +44,7 @@
 adb logcat > log.txt
 ```
 when the code executed then press the ralali apps on phone, then terminate the code.
-It will show the logcat ont log.txt
+It will show the logcat on log.txt
 - Open log.txt
 - find "for activity" ralali
 
