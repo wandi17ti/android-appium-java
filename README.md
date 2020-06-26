@@ -48,7 +48,7 @@ It will show the logcat on log.txt
 - Open log.txt
 - find "for activity" ralali
 
-### If using Real Device, checking the devices already connected on laptop
+### Checking the devices already connected on laptop
 ```
 adb devices
 ```
