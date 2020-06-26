@@ -39,7 +39,7 @@
 - Click Ralali Apps
 - Click Export
 
-### Getting appPackage and appActivity
+### Getting appPackage and appActivity on Desired Capabilities 
 ```
 adb logcat > log.txt
 ```
