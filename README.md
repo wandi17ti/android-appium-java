@@ -12,13 +12,14 @@
 - Download [Selenium Java Client](https://www.selenium.dev/downloads/)
 - Download [Appium Java Client](http://appium.io/downloads.html)
 - Download [commons-lang3](https://commons.apache.org/proper/commons-lang/download_lang.cgi)
-- Download [TestNG](https://testng.org/doc/download.html) for the framework
+- Download [TestNG](https://testng.org/doc/download.html)
 
 ## How to setup
 - Clone repository
 - Open Project with Eclipse
 - Right Click on Project > Properties > Java Build Path > Add External JARs
 - Import all Library tha downloaded (only file jar)
+- Then when see error tag @Test, point cursor to @Test > Add TestNG Library
 
 ## Inspect Element Tools
 
