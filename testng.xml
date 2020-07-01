@@ -3,8 +3,9 @@
 <suite name="Login">
   <test name="Test">
     <classes>
-      <class name="Tutorial.R_Login"/>
-      <class name="Tutorial.R_Register"/>
+      <class name="test_file.R_Login"/>
+      <class name="test_file.R_Register"/>
+      <class name="test_file.R_Checkout"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

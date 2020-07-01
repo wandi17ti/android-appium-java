@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
-  <test thread-count="5" name="Default test(failed)">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Login]">
+  <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Tutorial.R_Checkout">
+      <class name="test_file.R_Login">
         <methods>
-          <include name="CheckoutSKU"/>
+          <include name="ValidEmail"/>
         </methods>
-      </class> <!-- Tutorial.R_Checkout -->
+      </class> <!-- test_file.R_Login -->
     </classes>
-  </test> <!-- Default test(failed) -->
-</suite> <!-- Failed suite [Default suite] -->
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Login] -->

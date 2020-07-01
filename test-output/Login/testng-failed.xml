@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Login]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="Tutorial.R_Login">
+      <class name="test_file.R_Login">
         <methods>
           <include name="ValidEmail"/>
         </methods>
-      </class> <!-- Tutorial.R_Login -->
+      </class> <!-- test_file.R_Login -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Login] -->

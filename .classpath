@@ -2,5 +2,19 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/java-client-7.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/commons-lang3-3.10/commons-lang3-3.10.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/commons-lang3-3.10/commons-lang3-3.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/commons-lang3-3.10/commons-lang3-3.10-sources.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/commons-lang3-3.10/commons-lang3-3.10-tests.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/commons-lang3-3.10/commons-lang3-3.10-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/Selenium/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/Selenium/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/Selenium/libs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/Selenium/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/Selenium/libs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/Selenium/libs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/wandi/Documents/Ralali/android-appium-java/library/Selenium/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

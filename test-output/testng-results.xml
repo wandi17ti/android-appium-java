@@ -1,17 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="712693" started-at="2020-07-01T16:48:11 WIB" finished-at="2020-07-01T17:00:03 WIB">
+  <suite name="Login" duration-ms="563990" started-at="2020-07-01T18:36:45 WIB" finished-at="2020-07-01T18:46:09 WIB">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="712693" started-at="2020-07-01T16:48:11 WIB" finished-at="2020-07-01T17:00:03 WIB">
-      <class name="Tutorial.R_Checkout">
-        <test-method status="PASS" signature="CheckoutSKU()[pri:0, instance:Tutorial.R_Checkout@3043fe0e]" name="CheckoutSKU" duration-ms="712628" started-at="2020-07-01T16:48:11 WIB" finished-at="2020-07-01T17:00:03 WIB">
+    <test name="Test" duration-ms="563990" started-at="2020-07-01T18:36:45 WIB" finished-at="2020-07-01T18:46:09 WIB">
+      <class name="test_file.R_Login">
+        <test-method status="PASS" signature="InvalidEmail()[pri:0, instance:test_file.R_Login@76b0bfab]" name="InvalidEmail" duration-ms="226963" started-at="2020-07-01T18:36:45 WIB" finished-at="2020-07-01T18:40:32 WIB">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CheckoutSKU -->
-      </class> <!-- Tutorial.R_Checkout -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- InvalidEmail -->
+        <test-method status="PASS" signature="ValidEmail()[pri:0, instance:test_file.R_Login@76b0bfab]" name="ValidEmail" duration-ms="336965" started-at="2020-07-01T18:40:32 WIB" finished-at="2020-07-01T18:46:09 WIB">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidEmail -->
+      </class> <!-- test_file.R_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Login -->
 </testng-results>
