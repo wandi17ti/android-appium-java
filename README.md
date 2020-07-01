@@ -1,15 +1,23 @@
 # Implement Automation Mobile using Appium Java
 
-## Steps Configuration to run Mobile Automation
+## Steps Configuration to run Mobile Automation (Manual)
 - Download Java and set JAVA_HOME
 - Download [Android Studio](https://developer.android.com/studio)
 - Set ANDROID_HOME path to SDK Location
 - Download Node.js v12(LTS)
 - Download [Appium Desktop & Appium Java Client](http://appium.io/downloads.html)
+- Install Java IDE [Eclipse](https://www.eclipse.org/downloads/)
+
+## Library that needed
 - Download [Selenium Java Client](https://www.selenium.dev/downloads/)
 - Download [commons-lang3](https://commons.apache.org/proper/commons-lang/download_lang.cgi)
-- Install Java IDE [Eclipse](https://www.eclipse.org/downloads/) and configure the Library
-- Download [TestNG](https://testng.org/doc/download.html) for the framework 
+- Download [TestNG](https://testng.org/doc/download.html) for the framework
+
+## How to setup
+- Clone repository
+- Open Project with Eclipse
+- Right Click on Project > Properties > Java Build Path > Add External JARs
+- Import all Library tha downloaded (only file jar)
 
 ## Inspect Element Tools
 
