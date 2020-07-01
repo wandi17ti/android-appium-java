@@ -62,6 +62,9 @@ It will show the logcat on log.txt
 ```
 adb devices
 ```
+### if using Real Device, set to Developer Option and enable USD Debugging
+
+
 ## How to Run
 - Make sure Appium Server is Started
 - Run testng.xml to run the code on JAVA IDE (Eclipse)
