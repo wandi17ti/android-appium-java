@@ -65,9 +65,12 @@ adb devices
 ### if using Real Device, set to Developer Option and enable USD Debugging
 
 
-## How to Run
+## How to Run using Framework TestNG
 - Make sure Appium Server is Started
 - Run testng.xml to run the code on JAVA IDE (Eclipse)
+
+Reference :
+https://testng.org/doc/documentation-main.html#running-testng
 
 ## Notes
 - Eksekusi code yang masih tidak stabil sehingga bisa terjadi error
