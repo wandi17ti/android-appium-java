@@ -58,6 +58,8 @@ It will show the logcat on log.txt
 - Open log.txt
 - find "for activity" ralali
 
+or using APKInfo
+
 ### Checking the devices already connected on laptop
 ```
 adb devices
