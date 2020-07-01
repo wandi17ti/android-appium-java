@@ -69,6 +69,7 @@ adb devices
 - Make sure Appium Server is Started
 - Run testng.xml to run the code on JAVA IDE (Eclipse)
 
+Before running test, read this documentation
 Reference :
 https://testng.org/doc/documentation-main.html#running-testng
 
