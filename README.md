@@ -5,11 +5,12 @@
 - Download [Android Studio](https://developer.android.com/studio)
 - Set ANDROID_HOME path to SDK Location
 - Download Node.js v12(LTS)
-- Download [Appium Desktop & Appium Java Client](http://appium.io/downloads.html)
+- Download [Appium Desktop](http://appium.io/downloads.html)
 - Install Java IDE [Eclipse](https://www.eclipse.org/downloads/)
 
 ## Library that needed
 - Download [Selenium Java Client](https://www.selenium.dev/downloads/)
+- Download [Appium Java Client](http://appium.io/downloads.html)
 - Download [commons-lang3](https://commons.apache.org/proper/commons-lang/download_lang.cgi)
 - Download [TestNG](https://testng.org/doc/download.html) for the framework
 
