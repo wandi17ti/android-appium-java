@@ -53,9 +53,9 @@ It will show the logcat on log.txt
 adb devices
 ```
 ## How to Run
-- Open Appium Server
-- Start the server
-- Run Java Appplication on Java IDE(Eclipse)
+- Make sure Appium Server is Started
+- Run testng.xml to run the code on JAVA IDE (Eclipse)
 
 ## Notes
-Eksekusi code yang masih tidak stabil sehingga bisa terjadi error
+- Eksekusi code yang masih tidak stabil sehingga bisa terjadi error
+- Kodingan yang masih hard coding
