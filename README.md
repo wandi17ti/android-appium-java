@@ -1,4 +1,4 @@
-# Implement Automation Mobile using Appium Java
+# Implement Automation Mobile using Appium Java on Mac
 
 ## Steps Configuration to run Mobile Automation (Manual)
 - Download Java and set JAVA_HOME
